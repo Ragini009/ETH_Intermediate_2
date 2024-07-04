@@ -16,8 +16,7 @@ This project is a simple decentralized application (DApp) that allows users to i
 
 1. **Clone the Repository:**
     ```sh
-    git clone https://github.com/yourusername/metacrafters-atm-dapp.git
-    cd metacrafters-atm-dapp
+    git clone https://github.com/Ragini009/ETH_Intermediate_2/tree/main
     ```
 
 2. **Install Dependencies:**
